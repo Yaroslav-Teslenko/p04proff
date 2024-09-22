@@ -3,4 +3,6 @@
 /tomcat.8080
 /tz
 /out
+**/cbs_ex/
 database.properties
+
