@@ -11,13 +11,13 @@ public class t2l6_Calculator {
     private double a, b;
     private  String sign;
     public void selectOperation() throws Exception {
-        switch (sign) {
-            case "+" -> add(a, b);
-            case "-" -> sub(a, b);
-            case "*" -> mul(a, b);
-            case "/" -> div(a, b);
-            default -> throw new Exception("Its a wrong sign");
-        }
+//        switch (sign) {
+//            case "+" -> add(a, b);
+//            case "-" -> sub(a, b);
+//            case "*" -> mul(a, b);
+//            case "/" -> div(a, b);
+//            default -> throw new Exception("Its a wrong sign");
+//        }
     }
 
     public t2l6_Calculator() {

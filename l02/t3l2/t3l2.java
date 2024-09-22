@@ -23,6 +23,6 @@ public class t3l2 {
 
     public static int getMinimum(List<Integer> list){
         Collections.sort(list);
-        return list.getFirst();
+        return ((LinkedList<Integer>)list).getFirst();
     }
 };

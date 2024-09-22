@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module type="GENERAL_MODULE" version="4">
+<module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/l07/JAXB" />
-      <excludeFolder url="file://$MODULE_DIR$/l07/SAXParser" />
-      <excludeFolder url="file://$MODULE_DIR$/l07/XMLParser" />
-      <excludeFolder url="file://$MODULE_DIR$/l07/XMLParserDOM" />
-      <excludeFolder url="file://$MODULE_DIR$/l07/XMLSaveDOM" />
+      <sourceFolder url="file://$MODULE_DIR$/" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/l07/cbs_ex/JAXB" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

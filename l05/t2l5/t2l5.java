@@ -19,8 +19,8 @@ public class t2l5 {
         System.out.println(new testClass().getClass());
         //System.out.println(scanner.getClass().getName());
         switch (num) {
-            case 1 -> className = "l05.t2l5.testClass";
-            case 2 -> className = "java.util.Scanner";
+            case 1 : {  className = "l05.t2l5.testClass"; break;}
+            case 2 : { className = "java.util.Scanner"; break;}
         }
 
         try {
